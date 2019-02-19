@@ -1,0 +1,27 @@
+body{
+	background: #e8d3ff;"
+	}
+	div	{
+	width: 70%;
+    margin: auto;
+	}
+	table{
+	background: cornsilk;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 60px;
+    padding: 50px;
+	}
+	tr{
+		text-align: justify;
+		border: black;
+	} 
+	th{
+		font-size: medium;
+		padding: 9px;
+		background: #b0e6bc;
+	}
+	td {
+    font-size: 15px;
+    padding: 10px;
+}
