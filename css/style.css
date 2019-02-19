@@ -1,6 +1,10 @@
 body{
 	background: #e8d3ff;"
 	}
+h1{
+    text-align: center;
+    background: dimgrey;
+    color: ghostwhite;
 	div	{
 	width: 70%;
     margin: auto;
